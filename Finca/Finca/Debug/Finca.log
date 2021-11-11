@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\Finca\Finca\Source.cpp(4,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\Finca\Finca\Source.cpp(20,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\Finca\Finca\Source.cpp(24,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\Finca\Finca\Source.cpp(28,29): warning C4305: '=': truncamiento de 'double' a 'float'
+  Finca.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\Finca\Debug\Finca.exe
