@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\Vacaciones\Vacaciones\Source.cpp(13,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\Vacaciones\Vacaciones\Source.cpp(15,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Vacaciones.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\Vacaciones\Debug\Vacaciones.exe
