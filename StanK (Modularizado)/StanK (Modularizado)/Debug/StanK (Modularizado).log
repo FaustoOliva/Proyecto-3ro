@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(16,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(37,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(38,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(39,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(66,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(77,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(80,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(81,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\StanK (Modularizado)\Source.cpp(81,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  StanK (Modularizado).vcxproj -> C:\Users\Gaeilg\Documents\Colegio\StanK (Modularizado)\Debug\StanK (Modularizado).exe
