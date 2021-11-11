@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\StanKC\StanKC\Source.cpp(4,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\StanKC\StanKC\Source.cpp(10,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\StanKC\StanKC\Source.cpp(11,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Gaeilg\Documents\Colegio\StanKC\StanKC\Source.cpp(12,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  StanKC.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\StanKC\Debug\StanKC.exe
