@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\source\repos\Supermerk2\Supermerk2\Source.cpp(138,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\source\repos\Supermerk2\Supermerk2\Source.cpp(197,67): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Supermerk2.vcxproj -> C:\Users\Gaeilg\source\repos\Supermerk2\Debug\Supermerk2.exe
