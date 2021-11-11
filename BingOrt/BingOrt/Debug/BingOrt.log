@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\BingOrt\BingOrt\Source.cpp(89,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\BingOrt\BingOrt\Source.cpp(91,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BingOrt.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\BingOrt\Debug\BingOrt.exe
