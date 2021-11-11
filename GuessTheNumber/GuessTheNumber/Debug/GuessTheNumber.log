@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\GuessTheNumber\GuessTheNumber\Source.cpp(108,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\GuessTheNumber\GuessTheNumber\Source.cpp(145,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  GuessTheNumber.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\GuessTheNumber\Debug\GuessTheNumber.exe
