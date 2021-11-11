@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(68,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(118,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(162,78): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(163,69): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(164,82): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\DreamTeam\Source.cpp(133,25): warning C4101: 'apellidoMasAlto': variable local sin referencia
+  DreamTeam.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\DreamTeam\Debug\DreamTeam.exe
