@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\source\repos\Figuras geometricas\Figuras geometricas\Source.cpp(1,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Gaeilg\source\repos\Figuras geometricas\Figuras geometricas\Source.cpp(63,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\source\repos\Figuras geometricas\Figuras geometricas\Source.cpp(71,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Figuras geometricas.vcxproj -> C:\Users\Gaeilg\source\repos\Figuras geometricas\Debug\Figuras geometricas.exe
