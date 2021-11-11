@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\PromedioEdades\PromedioEdades\Source.cpp(49,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\PromedioEdades\PromedioEdades\Source.cpp(52,37): warning C4129: 'C': secuencia de escape de carácter no reconocida
+  PromedioEdades.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\PromedioEdades\Debug\PromedioEdades.exe
