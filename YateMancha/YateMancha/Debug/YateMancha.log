@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(35,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(68,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(73,37): warning C4129: 'I': secuencia de escape de carácter no reconocida
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(100,17): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(101,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(102,133): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(112,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(113,50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\YateMancha\Source.cpp(116,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  YateMancha.vcxproj -> C:\Users\Gaeilg\Documents\Colegio\PROGRAMACION\YateMancha\Debug\YateMancha.exe
